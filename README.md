@@ -1,1 +1,2 @@
 # study
+# add ubuntu ssh
